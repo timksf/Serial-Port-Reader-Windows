@@ -30,7 +30,6 @@ int main() {
 		Sleep(100);
 	}
 
-	system("pause");
 	exit(EXIT_SUCCESS);
 }
 
