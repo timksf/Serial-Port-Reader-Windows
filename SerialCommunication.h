@@ -2,8 +2,6 @@
 #define _SERIAL_COMMUNICATION_H_
 
 #include <Windows.h>
-#include <stdio.h>
-#include <stdlib.h>
 #include <stdint.h>
 #include <vector>
 
